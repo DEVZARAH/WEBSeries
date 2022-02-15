@@ -1,0 +1,167 @@
+.wrap{
+    width: 80%;
+    height: 100vh;
+    margin: 0% auto;
+}
+header{
+    display: flex;
+    justify-content: space-between;
+    align-items: baseline;
+} 
+header h2{
+    color: orangered;
+}
+.formm{
+    width: 20%;
+    height: 20%;
+    text-align: center;
+    margin-left: 15px;
+}
+.free{
+    padding: 50px;
+}
+fieldset{
+    background-color: #ff4400d3;
+    border-radius: 10px;
+    padding: 15px;
+}
+input{
+    padding:20px;
+    padding-top: 0px;
+    margin-bottom: 10px;
+}
+.datee{
+
+    padding: 30px;
+    padding-top: 0px;
+ 
+}
+nav a{
+    text-decoration: none;
+    padding-right: 10px;
+    color: black;
+    font-size: 20px;
+}
+.differ{
+    background-color:orangered;
+    padding: 5px;
+    margin: 0px;
+}
+a:hover{
+    color: orangered;
+    text-decoration: underline;
+}
+.differ:hover{
+    color: white;
+
+}
+.one{
+    background-image: url("../img/pic2.jpg");
+    background-repeat: no-repeat;
+    background-size: 100%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.one_sec{
+    color: orangered;
+    margin-right: 145px;
+    font-size: 30px;
+    margin-bottom: 10px;
+    
+}
+.two{
+    display: flex;
+    justify-content: space-between;
+    background-color: rgba(255, 68, 0, 0.884);
+    
+}
+.two_sec{
+    width: 50%;
+    font-size: 25px;
+    margin: 40px;
+}
+
+.three{
+    display: flex;
+    justify-content: space-between;
+    width: 100%;
+    font-size: 15px;
+    padding: 50px;
+    padding-left: 0px;
+    padding-right: 0px;
+}
+.three i{
+    color: orangered;
+    font-size: 25px;
+}
+.three div{
+    padding-top: 15px;
+    width: 40%;
+    /* border: 2px solid orangered; */
+    text-align: center;
+    box-shadow: 5px 6px 9px 6px orangered;
+}
+.four{
+    display: flex;
+    justify-content: space-between;
+}
+footer div{
+    display:flex;
+    justify-content: space-between;
+    margin-bottom: 0%;
+}
+footer{
+    background-color: black;
+    padding: 10px;
+    color: orangered;
+    padding: 30px;
+}
+.sec_p{
+    text-align: center;
+    font-size: large;
+    margin-bottom: 0%;
+}
+button{
+    background-color: black;
+    color: orangered;
+    padding: 7px;
+    margin-bottom: 10px;
+}
+footer i{
+    text-align: center;
+    padding-left: 40px;
+    font-size: 25px;
+}
+.four{
+    background-color: orangered;
+    padding: 40px;
+    text-align: center;
+
+
+}
+footer h3{
+    border-right: 2px solid red;
+    padding: 100px;
+    font-size: 25px;
+    padding-top: 0px !important;
+    padding-bottom: 0px !important;
+
+}
+.sec_sec{
+    text-align: center;
+    margin: 0%;
+    background-color:orangered;
+    margin-top: 5px !important;
+    text-decoration: underline;
+    font-size: xx-large;
+    
+}
+.four div{
+    width: 30%;
+    margin-top: 0%;
+
+}
+.four img{
+    border-radius: 50px;
+}
